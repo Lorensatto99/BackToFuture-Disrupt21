@@ -2,6 +2,15 @@
 <p>Projeto acadêmico com o objetivo de criar uma representação simplificada com a linha do tempo do primeiro filme: De Volta Para O Futuro.</p>
 
 ## Acesse o projeto [Aqui](https://disrupt21.herokuapp.com).
+
+## Tecnologias:
+
+1. JSP
+2. Servlet
+3. Tomcat
+4. Maven
+
+
 <h2>Como Executa o Projeto ?</h2>
 <h3>Requisitos para funcionar:</h3>
 <ul>
