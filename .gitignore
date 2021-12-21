@@ -1,3 +1,6 @@
 /.metadata/
 /Servers
 /bin
+/target
+/build
+/.idea/
