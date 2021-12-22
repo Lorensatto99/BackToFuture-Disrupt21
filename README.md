@@ -9,6 +9,7 @@
 2. Servlet
 3. Tomcat
 4. Maven
+5. JSTL
 
 
 <h2>Como Executa o Projeto ?</h2>
